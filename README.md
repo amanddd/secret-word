@@ -12,13 +12,16 @@ In the project directory, you can run:
 ##Advinhar palavra sorteada aleatoriamente
 
 ###Tela inicial
-![image](https://github.com/amanddd/secret-word/assets/90011243/abcb09de-d497-4caa-80ed-0ef85de201c1)
+![image](https://github.com/amanddd/secret-word/assets/90011243/6cafa3ba-2fb2-4c1f-affe-424b84e83180)
+
 
 ###Tela de jogo
-![image](https://github.com/amanddd/secret-word/assets/90011243/17389a3c-321d-4cf8-87b9-0ba00eb67203)
+![image](https://github.com/amanddd/secret-word/assets/90011243/2194e7c5-b9ab-456d-870f-004bcc92081b)
+
 
 ###Advinhando palavra
-![image](https://github.com/amanddd/secret-word/assets/90011243/050ccf62-d37a-43e3-93dc-0b8712f93b6d)
+![image](https://github.com/amanddd/secret-word/assets/90011243/752c18e4-55f3-4055-b2c0-156cb66e7c60)
+
 
 ###Game over
-![image](https://github.com/amanddd/secret-word/assets/90011243/1d9c52bf-6745-4333-a379-97791dd3d337)
+![image](https://github.com/amanddd/secret-word/assets/90011243/424a44f9-6b51-4102-a81b-7eff34b0bb42)
